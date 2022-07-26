@@ -8,7 +8,7 @@ sliderImage:
   - image: "images/stor/story-01.jpg"
   - image: "images/stor/story-01.jpg"
 ---
-## This Is Our Story.
+## Conoce más de nosotros
 
 We’re here for those who refuse to settle. Who never stop moving forwards. Who continue to search for new
 ideas and better experiences in everything they do. Because today’s hyper-connected world deserves a
